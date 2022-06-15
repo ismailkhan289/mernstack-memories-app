@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\actions",
+    "\\client\\src\\constants",
+    "\\client\\src\\images",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\client\\src\\constants\\actionTypes.js",
+  "PreviewInSolutionExplorer": false
+}
